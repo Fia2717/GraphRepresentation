@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+openpyxl
+plotly
+s3fs
+gcsfs
